@@ -1,0 +1,457 @@
+[
+    {
+        "name": "Proxima Centauri b",
+        "description": "An exoplanet located in the habitable zone of Proxima Centauri. It is a terrestrial planet with a mass of at least 1.27 Earth masses.",
+        "size": "1.27 Earth masses",
+        "distance": "4.24 light years",
+        "color": "#FF0000",
+        "position": {
+            "x": 0.1,
+            "y": 0.2,
+            "z": -4.24
+        },
+        "imagePath": "/Proxima-Centauri-b.jpg"
+    },
+    {
+        "name": "Barnard's Star b",
+        "description": "A super-Earth exoplanet orbiting Barnard's Star. It is a cold super-Earth with a mass of at least 3.2 Earth masses.",
+        "size": "3.2 Earth masses",
+        "distance": "5.96 light years",
+        "color": "#FF7F00",
+        "position": {
+            "x": -0.2,
+            "y": 0.1,
+            "z": -5.96
+        },
+        "imagePath": "/Barnards-Star-b.jpg"
+    },
+    {
+        "name": "LHS 1140 b",
+        "description": "A rocky super-Earth exoplanet. It is a terrestrial planet with a mass of at least 6.8 Earth masses.",
+        "size": "6.8 Earth masses",
+        "distance": "40 light years",
+        "color": "#FFFF00",
+        "position": {
+            "x": 0.5,
+            "y": -0.3,
+            "z": -40
+        },
+        "imagePath": "/LHS-1140-b.jpg"
+    },
+    {
+        "name": "LHS 1140 c",
+        "description": "Another super-Earth orbiting the same star as LHS 1140 b. It is a terrestrial planet with a mass of at least 7.2 Earth masses.",
+        "size": "7.2 Earth masses",
+        "distance": "40 light years",
+        "color": "#00FF00",
+        "position": {
+            "x": -0.4,
+            "y": 0.4,
+            "z": -40
+        },
+        "imagePath": "/LHS-1140-c.jpg"
+    },
+    {
+        "name": "TOI 700 d",
+        "description": "A potentially habitable exoplanet. It is a terrestrial planet with a mass of at least 1.2 Earth masses.",
+        "size": "1.2 Earth masses",
+        "distance": "100 light years",
+        "color": "#00FFFF",
+        "position": {
+            "x": 1.0,
+            "y": -0.5,
+            "z": -100
+        },
+        "imagePath": "/TOI-700-d.jpg"
+    },
+    {
+        "name": "HD 209458 b",
+        "description": "A well-known exoplanet, the first to be detected transiting a star. It is a gas giant with a mass of at least 0.69 Jupiter masses.",
+        "size": "0.69 Jupiter masses",
+        "distance": "159 light years",
+        "color": "#0000FF",
+        "position": {
+            "x": -1.2,
+            "y": 0.6,
+            "z": -159
+        },
+        "imagePath": "/HD-209458-b.jpg"
+    },
+    {
+        "name": "WASP-121 b",
+        "description": "A hot Jupiter exoplanet. It is a gas giant with a mass of at least 1.2 Jupiter masses.",
+        "size": "1.2 Jupiter masses",
+        "distance": "850 light years",
+        "color": "#7F00FF",
+        "position": {
+            "x": 0.3,
+            "y": 1.0,
+            "z": -850
+        },
+        "imagePath": "/WASP-121-b.jpg"
+    },
+    {
+        "name": "TRAPPIST-1 e",
+        "description": "One of the seven Earth-sized planets orbiting TRAPPIST-1. It is a terrestrial planet with a mass of at least 0.92 Earth masses.",
+        "size": "0.92 Earth masses",
+        "distance": "39 light years",
+        "color": "#FF007F",
+        "position": {
+            "x": -0.1,
+            "y": -0.2,
+            "z": -39
+        },
+        "imagePath": "/TRAPPIST-1-e.jpg"
+    },
+    {
+        "name": "TRAPPIST-1 f",
+        "description": "Another of the seven Earth-sized planets in the TRAPPIST-1 system. It is a terrestrial planet with a mass of at least 0.68 Earth masses.",
+        "size": "0.68 Earth masses",
+        "distance": "39 light years",
+        "color": "#FF4500",
+        "position": {
+            "x": 0.2,
+            "y": 0.3,
+            "z": -39
+        },
+        "imagePath": "/TRAPPIST-1-f.jpg"
+    },
+    {
+        "name": "GJ 357 d",
+        "description": "A super-Earth located in the habitable zone of its star. It is a terrestrial planet with a mass of at least 1.6 Earth masses.",
+        "size": "1.6 Earth masses",
+        "distance": "31 light years",
+        "color": "#FFD700",
+        "position": {
+            "x": 0.4,
+            "y": -0.4,
+            "z": -31
+        },
+        "imagePath": "/GJ-357-d.jpg"
+    },
+    {
+        "name": "K2-18 b",
+        "description": "A super-Earth exoplanet located in the habitable zone. It is a terrestrial planet with a mass of at least 8.6 Earth masses.",
+        "size": "8.6 Earth masses",
+        "distance": "124 light years",
+        "color": "#B22222",
+        "position": {
+            "x": -0.3,
+            "y": 0.5,
+            "z": -124
+        },
+        "imagePath": "/K2-18-b.jpg"
+    },
+    {
+        "name": "Kepler-186 f",
+        "description": "The first Earth-sized planet discovered in the habitable zone. It is a terrestrial planet with a mass of at least 1.1 Earth masses.",
+        "size": "1.1 Earth masses",
+        "distance": "500 light years",
+        "color": "#8B0000",
+        "position": {
+            "x": 0.5,
+            "y": 1.2,
+            "z": -500
+        },
+        "imagePath": "/Kepler-186-f.jpg"
+    },
+    {
+        "name": "K2-72 e",
+        "description": "A potentially habitable exoplanet. It is a terrestrial planet with a mass of at least 1.7 Earth masses.",
+        "size": "1.7 Earth masses",
+        "distance": "140 light years",
+        "color": "#FF69B4",
+        "position": {
+            "x": -0.6,
+            "y": 0.2,
+            "z": -140
+        },
+        "imagePath": "/K2-72-e.jpg"
+    },
+    {
+        "name": "WASP-33 b",
+        "description": "A hot Jupiter exoplanet. It is a gas giant with a mass of at least 1.5 Jupiter masses.",
+        "size": "1.5 Jupiter masses",
+        "distance": "380 light years",
+        "color": "#FF1493",
+        "position": {
+            "x": 0.1,
+            "y": -0.8,
+            "z": -380
+        },
+        "imagePath": "/WASP-33-b.jpg"
+    },
+    {
+        "name": "WASP-19 b",
+        "description": "A hot Jupiter exoplanet with an unusual atmosphere. It is a gas giant with a mass of at least 1.1 Jupiter masses.",
+        "size": "1.1 Jupiter masses",
+        "distance": "80 light years",
+        "color": "#6495ED",
+        "position": {
+            "x": 0.8,
+            "y": 0.1,
+            "z": -80
+        },
+        "imagePath": "/WASP-19-b.jpg"
+    },
+    {
+        "name": "HD 97658 b",
+        "description": "An exoplanet located in the habitable zone of its star. It is a terrestrial planet with a mass of at least 3.1 Earth masses.",
+        "size": "3.1 Earth masses",
+        "distance": "63 light years",
+        "color": "#7FFF00",
+        "position": {
+            "x": -0.4,
+            "y": -0.2,
+            "z": -63
+        },
+        "imagePath": "/HD-97658-b.jpg"
+    },
+    {
+        "name": "WASP-104 b",
+        "description": "A Jupiter-like planet in a short-period orbit. It is a gas giant with a mass of at least 0.91 Jupiter masses.",
+        "size": "0.91 Jupiter masses",
+        "distance": "460 light years",
+        "color": "#4682B4",
+        "position": {
+            "x": -0.2,
+            "y": 0.3,
+            "z": -460
+        },
+        "imagePath": "/WASP-104-b.jpg"
+    },
+    {
+        "name": "WASP-43 b",
+        "description": "A hot Jupiter exoplanet. It is a gas giant with a mass of at least 1.79 Jupiter masses.",
+        "size": "1.79 Jupiter masses",
+        "distance": "261 light years",
+        "color": "#FF8C00",
+        "position": {
+            "x": 0.2,
+            "y": -0.5,
+            "z": -261
+        },
+        "imagePath": "/WASP-43-b.jpg"
+    },
+    {
+        "name": "WASP-87 b",
+        "description": "A warm Jupiter exoplanet. It is a gas giant with a mass of at least 1.05 Jupiter masses.",
+        "size": "1.05 Jupiter masses",
+        "distance": "338 light years",
+        "color": "#FFD700",
+        "position": {
+            "x": 0.1,
+            "y": -0.3,
+            "z": -338
+        },
+        "imagePath": "/WASP-87-b.jpg"
+    },
+    {
+        "name": "HD 218566 b",
+        "description": "A hot Jupiter exoplanet orbiting a K-dwarf star. It is a gas giant with a mass of at least 1.37 Jupiter masses.",
+        "size": "1.37 Jupiter masses",
+        "distance": "245 light years",
+        "color": "#A52A2A",
+        "position": {
+            "x": -0.6,
+            "y": 0.4,
+            "z": -245
+        },
+        "imagePath": "/HD-218566-b.jpg"
+    },
+    {
+        "name": "GJ 9827 b",
+        "description": "A super-Earth exoplanet with a rocky composition. It is a terrestrial planet with a mass of at least 1.5 Earth masses.",
+        "size": "1.5 Earth masses",
+        "distance": "43 light years",
+        "color": "#FFDAB9",
+        "position": {
+            "x": 0.4,
+            "y": -0.1,
+            "z": -43
+        },
+        "imagePath": "/GJ-9827-b.jpg"
+    },
+    {
+        "name": "WASP-39 b",
+        "description": "A gas giant exoplanet with a short orbital period. It is a gas giant with a mass of at least 0.9 Jupiter masses.",
+        "size": "0.9 Jupiter masses",
+        "distance": "250 light years",
+        "color": "#B0E0E6",
+        "position": {
+            "x": -0.2,
+            "y": 0.7,
+            "z": -250
+        },
+        "imagePath": "/WASP-39-b.jpg"
+    },
+    {
+        "name": "K2-256 b",
+        "description": "A super-Earth located in a multi-planet system. It is a terrestrial planet with a mass of at least 1.4 Earth masses.",
+        "size": "1.4 Earth masses",
+        "distance": "210 light years",
+        "color": "#E6E6FA",
+        "position": {
+            "x": 0.1,
+            "y": 0.3,
+            "z": -210
+        },
+        "imagePath": "/K2-256-b.jpg"
+    },
+    {
+        "name": "HD 93129 A b",
+        "description": "An exoplanet located in a massive binary star system. It is a gas giant with a mass of at least 1.3 Jupiter masses.",
+        "size": "1.3 Jupiter masses",
+        "distance": "5,000 light years",
+        "color": "#D2691E",
+        "position": {
+            "x": -0.8,
+            "y": 0.6,
+            "z": -5000
+        },
+        "imagePath": "/HD-93129-A-b.jpg"
+    },
+    {
+        "name": "WASP-11 b",
+        "description": "A hot Jupiter exoplanet located near Earth. It is a gas giant with a mass of at least 0.89 Jupiter masses.",
+        "size": "0.89 Jupiter masses",
+        "distance": "160 light years",
+        "color": "#FF6347",
+        "position": {
+            "x": 0.7,
+            "y": -0.4,
+            "z": -160
+        },
+        "imagePath": "/WASP-11-b.jpg"
+    },
+    {
+        "name": "WASP-80 b",
+        "description": "A warm Jupiter exoplanet that transits its host star. It is a gas giant with a mass of at least 0.95 Jupiter masses.",
+        "size": "0.95 Jupiter masses",
+        "distance": "150 light years",
+        "color": "#4682B4",
+        "position": {
+            "x": -0.5,
+            "y": 0.9,
+            "z": -150
+        },
+        "imagePath": "/WASP-80-b.jpg"
+    },
+    {
+        "name": "K2-72 b",
+        "description": "A potentially habitable super-Earth. It is a terrestrial planet with a mass of at least 1.5 Earth masses.",
+        "size": "1.5 Earth masses",
+        "distance": "140 light years",
+        "color": "#FF4500",
+        "position": {
+            "x": 0.2,
+            "y": -0.6,
+            "z": -140
+        },
+        "imagePath": "/K2-72-b.jpg"
+    },
+    {
+        "name": "K2-263 b",
+        "description": "An exoplanet located in the habitable zone of its star. It is a terrestrial planet with a mass of at least 2.3 Earth masses.",
+        "size": "2.3 Earth masses",
+        "distance": "90 light years",
+        "color": "#DDA0DD",
+        "position": {
+            "x": 0.4,
+            "y": 0.4,
+            "z": -90
+        },
+        "imagePath": "/K2-263-b.jpg"
+    },
+    {
+        "name": "TOI 849 b",
+        "description": "An ultra-short-period giant exoplanet. It is a gas giant with a mass of at least 2.9 Jupiter masses.",
+        "size": "2.9 Jupiter masses",
+        "distance": "330 light years",
+        "color": "#FFD700",
+        "position": {
+            "x": -0.3,
+            "y": -0.9,
+            "z": -330
+        },
+        "imagePath": "/TOI-849-b.jpg"
+    },
+    {
+        "name": "WASP-90 b",
+        "description": "A gas giant with a short orbital period. It is a gas giant with a mass of at least 1.1 Jupiter masses.",
+        "size": "1.1 Jupiter masses",
+        "distance": "300 light years",
+        "color": "#BC8F8F",
+        "position": {
+            "x": 0.5,
+            "y": 1.1,
+            "z": -300
+        },
+        "imagePath": "/WASP-90-b.jpg"
+    },
+    {
+        "name": "WASP-107 b",
+        "description": "An ultra-low-density gas giant. It is a gas giant with a mass of at least 0.4 Jupiter masses.",
+        "size": "0.4 Jupiter masses",
+        "distance": "200 light years",
+        "color": "#00CED1",
+        "position": {
+            "x": 0.3,
+            "y": -0.2,
+            "z": -200
+        },
+        "imagePath": "/WASP-107-b.jpg"
+    },
+    {
+        "name": "K2-138 e",
+        "description": "An exoplanet with a potentially dense atmosphere. It is a terrestrial planet with a mass of at least 0.97 Earth masses.",
+        "size": "0.97 Earth masses",
+        "distance": "95 light years",
+        "color": "#B0E0E6",
+        "position": {
+            "x": -0.1,
+            "y": 0.1,
+            "z": -95
+        },
+        "imagePath": "/K2-138-e.jpg"
+    },
+    {
+        "name": "K2-106 b",
+        "description": "An exoplanet discovered in a multi-planet system. It is a gas giant with a mass of at least 1.7 Jupiter masses.",
+        "size": "1.7 Jupiter masses",
+        "distance": "142 light years",
+        "color": "#F0E68C",
+        "position": {
+            "x": -0.6,
+            "y": 0.3,
+            "z": -142
+        },
+        "imagePath": "/K2-106-b.jpg"
+    },
+    {
+        "name": "K2-159 b",
+        "description": "A super-Earth exoplanet with a rocky composition. It is a terrestrial planet with a mass of at least 1.1 Earth masses.",
+        "size": "1.1 Earth masses",
+        "distance": "130 light years",
+        "color": "#FFB6C1",
+        "position": {
+            "x": 0.4,
+            "y": 0.5,
+            "z": -130
+        },
+        "imagePath": "/K2-159-b.jpg"
+    },
+    {
+        "name": "HD 215497 b",
+        "description": "A giant planet in a binary star system. It is a gas giant with a mass of at least 1.26 Jupiter masses.",
+        "size": "1.26 Jupiter masses",
+        "distance": "45 light years",
+        "color": "#FFFACD",
+        "position": {
+            "x": -0.2,
+            "y": -0.3,
+            "z": -45
+        },
+        "imagePath": "/HD-215497-b.jpg"
+    }
+]

@@ -1,0 +1,140 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --panel-bg-color: rgba(255, 255, 255, 0.1);
+  --panel-border-color: rgba(255, 255, 255, 0.3);
+  --panel-text-color: #f0f0f0;
+  --h1-color: #1a73e8;
+  --h2-color: #ffd700;
+  --accent-color: #1a73e8;
+  --shadow-color: rgba(0, 0, 0, 0.6);
+  --blur-amount: 10px;
+  --transition-duration: 0.3s;
+
+  --font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.25rem;
+  --font-size-xl: 1.75rem;
+
+  --padding-small: 0.5rem;
+  --padding-medium: 1rem;
+  --padding-large: 1.5rem;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-family);
+  background-color: #121212;
+}
+.info-panel {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  padding: 15px 25px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  border-radius: 12px;
+  max-width: 320px;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+  transition: transform 0.3s ease;
+}
+
+.info-panel:hover {
+  transform: scale(1.05);
+}
+
+.info-panel h1 {
+  font-size: 1.8em;
+  margin-bottom: 10px;
+  color: #ffcc00;
+}
+
+.info-panel h2 {
+  font-size: 1.4em;
+  margin-bottom: 5px;
+  color: #ffdd57;
+}
+
+.info-panel p {
+  margin: 5px 0;
+}
+
+.info-panel strong {
+  color: #ffcc00;
+}
+
+.info-panel img {
+  width: 100%;
+  height: auto;
+  margin-top: 10px;
+  border-radius: 12px;
+  transition: transform 0.3s ease;
+}
+
+.info-panel img:hover {
+  transform: scale(1.05);
+}
+
+.icon {
+  width: 1em;
+  height: 1em;
+  fill: currentColor;
+}
+
+@media (max-width: 768px) {
+  .info-panel {
+    top: 1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    max-width: 90%;
+  }
+}
+
+@media (max-width: 480px) {
+  .info-panel h1 {
+    font-size: 1.5rem;
+  }
+  
+  .info-panel h2 {
+    font-size: 1.2rem;
+  }
+  
+  button {
+    width: 100%;
+    justify-content: center;
+  }
+}
+
+.background-style {
+  background-image: url(./public/background.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+}
+
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: #fff;
+  min-height: 100vh;
+}
+
+.App-header {
+  padding: 20px;
+}
+
+.exoplanet-selector {
+  margin: 20px;
+}
+
+.exoplanet-selector select {
+  padding: 10px;
+  font-size: 16px;
+}
