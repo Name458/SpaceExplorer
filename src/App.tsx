@@ -1,7 +1,7 @@
 "use client";
 import React, { useEffect, useRef, useState } from 'react';
 import * as THREE from 'three';
-import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
+import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 import exoplanetsData from './exoplanets.json';
 
 const App: React.FC = () => {
