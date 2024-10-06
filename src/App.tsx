@@ -3,7 +3,6 @@ import React, { useEffect, useRef, useState } from 'react';
 import * as THREE from 'three';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
 import exoplanetsData from './exoplanets.json';
-import KO from "./public/starsImages/GJ-357-d.jpg";
 
 const App: React.FC = () => {
   const [selectedPlanet, setSelectedPlanet] = useState<any>(null);
