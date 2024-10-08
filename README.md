@@ -8,11 +8,11 @@ To install and run this React project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/SpaceExplorer.git
    ```
 2. **Navigate into the project directory**:
    ```bash
-   cd your-repo-name
+   cd SpaceExplorer
    ```
 3. **Install the dependencies: Ensure you have Node.js installed on your machine. Then run**:
    ```bash
